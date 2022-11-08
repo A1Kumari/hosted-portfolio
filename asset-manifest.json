@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/A1Kumari.github.io/static/css/main.5120748e.css",
-    "main.js": "/A1Kumari.github.io/static/js/main.72ae17ee.js",
-    "static/media/img5.png": "/A1Kumari.github.io/static/media/img5.d6c6e48e3d54974f9cbd.png",
-    "static/media/DALL_E2.png": "/A1Kumari.github.io/static/media/DALL_E2.2b4d990dd54feadfb8c6.png",
-    "index.html": "/A1Kumari.github.io/index.html",
-    "main.5120748e.css.map": "/A1Kumari.github.io/static/css/main.5120748e.css.map",
-    "main.72ae17ee.js.map": "/A1Kumari.github.io/static/js/main.72ae17ee.js.map"
+    "main.css": "/hosted-portfolio/static/css/main.5120748e.css",
+    "main.js": "/hosted-portfolio/static/js/main.946a7d3f.js",
+    "static/media/img5.png": "/hosted-portfolio/static/media/img5.d6c6e48e3d54974f9cbd.png",
+    "static/media/DALL_E2.png": "/hosted-portfolio/static/media/DALL_E2.2b4d990dd54feadfb8c6.png",
+    "index.html": "/hosted-portfolio/index.html",
+    "main.5120748e.css.map": "/hosted-portfolio/static/css/main.5120748e.css.map",
+    "main.946a7d3f.js.map": "/hosted-portfolio/static/js/main.946a7d3f.js.map"
   },
   "entrypoints": [
     "static/css/main.5120748e.css",
-    "static/js/main.72ae17ee.js"
+    "static/js/main.946a7d3f.js"
   ]
 }
